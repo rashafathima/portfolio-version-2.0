@@ -1,10 +1,10 @@
 
 var aText = new Array(
 "<br> > <b>getEducation() ... </b>",
-"Information science and Engineering from Sahyadri College of Engineering and Management with a CGPA of 8.77(2019 - 2023)",
+"Information science and Engineering from Sahyadri College of Engineering and Management with a CGPA of 8.84(2019 - 2023)",
 "<br>",
 "> <b>getExperience() ... </b>",
-"Worked as a UI/UX Intern at Sports Excitement LLC for a duration of 10 months (Mar 2022 - Jan 2023)"
+"Worked as a SDE Intern at ARS Softech for a duration of 2 months (Mar 2023 - May 2023) and as a freelance QA Manual Tester for a month (Nov - Dec 2022)"
 );
 
 var iSpeed = 35;
